@@ -43,4 +43,4 @@ public class Ejercicio1 {
 	}
 }
 //Cambio del alumno 2 (Alejandro Pirotta Martínez)
-//Cambio del alumno 1 (Alejandro Pirotta Martínez)
+//Cambio del alumno 2 (Alejandro Pirotta Martínez)
